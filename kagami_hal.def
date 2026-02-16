@@ -1,0 +1,34 @@
+[Info]
+name = "Shinnosuke Kagami"             ;Name of character
+displayname = "Kagami Shinnosuke"                 ;Name of character to display
+versiondate = 11,04,2012               ;Version date of character (MM-DD-YYYY)
+mugenversion = 04,14,2002              ;Version of M.U.G.E.N character works on
+author = "HAL"                         ;Character author name
+pal.defaults = 1,3,5,7,9,11            ;Default palettes in order of preference
+
+; Files for the player
+[Files]
+cmd      = Kagami.cmd
+cns      = Kagami_01_N.cns
+st       = Kagami_01_N.cns
+st0      = Kagami_02_S.cns
+st1      = Kagami_03_H.cns
+st2      = Helper.cns
+st3      = -2-3.cns
+st4      = Config.cns
+stcommon = Common.cns
+sprite   = Kagami.sff
+anim     = Kagami.air
+sound    = Kagami.snd
+pal1     = Act/Kagami1.act
+pal2     = Act/Kagami2.act
+pal3     = Act/Kagami3.act
+pal4     = Act/Kagami4.act
+pal5     = Act/Kagami5.act
+pal6     = Act/Kagami6.act
+pal7     = Act/Kagami4.act
+pal8     = Act/Kagami5.act
+pal9     = Act/Kagami6.act
+pal10    = Act/Kagami1.act
+pal11    = Act/Kagami2.act
+pal12    = Act/Kagami3.act
