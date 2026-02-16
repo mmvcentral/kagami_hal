@@ -105,7 +105,7 @@ The character uses a **6-button layout** with three sword qualities (剣質):
 | Move | Input | State |
 |------|-------|-------|
 | Flying Swallow Wing (飛燕翼) | D,DF,F,x | 1000 |
-|劫炎爪 (劫炎爪) | D,DF,F,a | 1050 |
+| Heavenly Flame Claw (劫炎爪) | D,DF,F,a | 1050 |
 | Strong Focus Roar (強焦咆吼) | F,D,DF,a | 1101 |
 | Weak Focus Roar (弱焦咆吼) | F,D,DF,x | 1100 |
 | Flame Roar (焔咆吼) | F,DF,D,DB,B,a/x | 1200 |
